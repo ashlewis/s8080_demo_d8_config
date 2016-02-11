@@ -1,9 +1,0 @@
-uuid: 431f3328-f83d-4c7f-9901-1bcd30f0b12e
-langcode: en
-status: true
-dependencies: {  }
-name: Countries
-vid: countries
-description: ''
-hierarchy: 0
-weight: 0
